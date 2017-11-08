@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"strings"
 
-	. "../gingonic"
+	. "github.com/Fatsoma/api2go-adapter/gingonic"
 	"github.com/gin-gonic/gin"
 	"github.com/manyminds/api2go"
 	"github.com/manyminds/api2go/examples/model"
